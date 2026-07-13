@@ -28,6 +28,15 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Kingdom Architect 主题图标（建筑/经济/扩张）
+  Gift: LucideIcons.Gift,
+  Trophy: LucideIcons.Trophy,
+  Coins: LucideIcons.Coins,
+  Building2: LucideIcons.Building2,
+  Map: LucideIcons.Map,
+  Moon: LucideIcons.Moon,
+  Palette: LucideIcons.Palette,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
