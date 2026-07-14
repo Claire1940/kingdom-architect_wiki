@@ -1,1 +1,697 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki de Kingdom Architect - Construções, Dinheiro e Layouts",
+      "description": "A Wiki de Kingdom Architect abrange dicas para iniciantes, renda das construções, crescimento offline, melhorias, expansão de terreno, layouts, decorações e guias de atualização do Roblox.",
+      "keywords": "Kingdom Architect, Roblox, códigos, construções, dinheiro, melhorias, layouts, crescimento offline",
+      "ogTitle": "Wiki de Kingdom Architect - Construções, Dinheiro e Layouts",
+      "ogDescription": "A Wiki de Kingdom Architect abrange dicas para iniciantes, renda das construções, crescimento offline, melhorias, expansão de terreno, layouts, decorações e guias de atualização do Roblox.",
+      "twitterTitle": "Wiki de Kingdom Architect - Construções, Dinheiro e Layouts",
+      "twitterDescription": "Wiki de Kingdom Architect: construções, dinheiro, crescimento offline, melhorias, layouts e guias de atualização do Roblox."
+    }
+  },
+  "nav": {
+    "guide": "Guia",
+    "codes": "Códigos",
+    "buildings": "Construções",
+    "upgrades": "Melhorias",
+    "layout": "Layout",
+    "money": "Dinheiro",
+    "controls": "Controles",
+    "updates": "Atualizações"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Leia Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Tycoon de Construção de Reino Medieval",
+    "title": "Kingdom Architect Wiki",
+    "description": "Transforme uma vila medieval em uma cidade castelo de fantasia, ganhe dinheiro com construções, desbloqueie melhorias, expanda o território e continue progredindo offline.",
+    "getFreeCodesCTA": "Resgate Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogue no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "BETA",
+        "label": "Status de Desenvolvimento"
+      },
+      "stat2": {
+        "value": "10",
+        "label": "Categorias de Construção"
+      },
+      "stat3": {
+        "value": "Offline",
+        "label": "Progresso Passivo"
+      },
+      "stat4": {
+        "value": "Dia e Noite",
+        "label": "Ciclo do Mundo"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Kingdom Architect",
+    "description": "Construa uma vila medieval até torná-la uma cidade castelo, ganhe dinheiro com construções, desbloqueie melhorias, expanda suas terras e continue progredindo offline no Roblox."
+  },
+  "tools": {
+    "title": "Kingdom Architect",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para construir, ganhar e expandir seu reino medieval em Kingdom Architect.",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes de Kingdom Architect",
+        "description": "Posicione suas primeiras construções, colete rendimentos e desbloqueie novas estruturas."
+      },
+      {
+        "icon": "Gift",
+        "title": "Códigos de Kingdom Architect",
+        "description": "Verifique o status atual dos códigos e onde futuros códigos de recompensa podem aparecer."
+      },
+      {
+        "icon": "Trophy",
+        "title": "Lista de Níveis dos Melhores Edifícios de Kingdom Architect",
+        "description": "Classifique casas, mercados, torres e muralhas por renda e valor de progressão."
+      },
+      {
+        "icon": "Coins",
+        "title": "Guia de Como Ganhar Dinheiro em Kingdom Architect",
+        "description": "Construa um ciclo de pagamentos confiável e reinvista os ganhos no crescimento."
+      },
+      {
+        "icon": "Building2",
+        "title": "Guia de Edifícios e Melhorias de Kingdom Architect",
+        "description": "Explore casas, mercados, estradas, muralhas, jardins e melhorias do reino."
+      },
+      {
+        "icon": "Map",
+        "title": "Guia de Expansão de Terras do Kingdom Architect",
+        "description": "Planeje cada compra de terra em torno de renda, estradas e novos distritos."
+      },
+      {
+        "icon": "Moon",
+        "title": "Guia de Ganhos Offline do Kingdom Architect",
+        "description": "Mantenha seu reino crescendo enquanto estiver fora e reinvista as recompensas coletadas."
+      },
+      {
+        "icon": "Palette",
+        "title": "Ideias de Layout e Decoração do Kingdom Architect",
+        "description": "Ideias de layout de vila, castelo, jardim e orla para o seu reino."
+      }
+    ]
+  },
+  "modules": {
+    "beginnerGuide": {
+      "title": "Guia para Iniciantes de Kingdom Architect",
+      "displayType": "passos",
+      "intro": "Kingdom Architect é uma experiência de construção e tycoon onde estruturas posicionadas geram progresso e dinheiro. O ciclo principal de progressão consiste em construir, coletar pagamentos, desbloquear estruturas adicionais, comprar mais terrenos e melhorar o reino ao longo do tempo.",
+      "steps": [
+        {
+          "title": "Comece pela Área da Vila",
+          "description": "Use o espaço inicial disponível para criar uma vila compacta. Deixe áreas livres entre construções importantes para que estradas e futuras estruturas possam ser adicionadas sem precisar reconstruir todo o layout."
+        },
+        {
+          "title": "Posicione suas Primeiras Construções",
+          "description": "Comece com estruturas medievais funcionais, como casas e mercados. As construções contribuem para a progressão do reino e fornecem a base para ganhar dinheiro."
+        },
+        {
+          "title": "Colete os Pagamentos das Construções",
+          "description": "Verifique as construções concluídas para ver os pagamentos disponíveis e colete-os regularmente. Esses ganhos financiam construções adicionais, melhorias e a expansão de terrenos."
+        },
+        {
+          "title": "Desbloqueie Novas Estruturas",
+          "description": "Continue construindo e ganhando para desbloquear mais categorias de estruturas e melhorias. Adicione estradas, torres, muralhas, jardins, elementos de terreno, água, árvores e decorações conforme ficarem disponíveis."
+        },
+        {
+          "title": "Comprar Mais Terrenos",
+          "description": "Use o dinheiro acumulado para expandir além da área original da vila. Novos terrenos oferecem espaço suficiente para distritos maiores, muralhas defensivas, torres e um assentamento central em estilo de castelo."
+        },
+        {
+          "title": "Use o Crescimento Offline",
+          "description": "O progresso e os ganhos do reino continuam enquanto você estiver offline. Volte regularmente para coletar as recompensas acumuladas e reinvesti-las na próxima etapa de expansão."
+        },
+        {
+          "title": "Termine a Cidade do Castelo",
+          "description": "Conecte os distritos com estradas, defina os limites do reino com torres e muralhas, e preencha espaços não utilizados com jardins, árvores, água, terreno e detalhes decorativos."
+        }
+      ],
+      "quickTips": [
+        "Construa estruturas de renda funcionais antes de adicionar decorações extensas.",
+        "Deixe pelo menos um lado da vila aberto para que os novos terrenos se conectem perfeitamente.",
+        "Colete os rendimentos com frequência e reinvesta-os na próxima rodada de construção.",
+        "O crescimento offline mantém o reino avançando, então retorne regularmente para resgatar recompensas."
+      ]
+    },
+    "codes": {
+      "title": "Códigos de Kingdom Architect",
+      "displayType": "cartões de códigos",
+      "intro": "Kingdom Architect não publica atualmente nenhum código de recompensa resgatável nem lista um sistema de resgate de códigos. Futuros códigos e anúncios do jogo devem ser verificados através da experiência oficial do Roblox e da comunidade Finite Works.",
+      "items": [
+        {
+          "code": "Sem Códigos Ativos",
+          "reward": "Nenhuma recompensa de código está disponível no momento",
+          "status": "Indisponível",
+          "action": "Siga a experiência oficial do Roblox e a comunidade de desenvolvedores da Finite Works para futuros anúncios de códigos."
+        },
+        {
+          "code": "Sem Códigos Expirados",
+          "reward": "Nenhum código de Kingdom Architect lançado anteriormente está listado",
+          "status": "Indisponível",
+          "action": "Novos códigos lançados aparecerão aqui após serem publicados oficialmente pelos desenvolvedores."
+        },
+        {
+          "code": "Menu de Resgate",
+          "reward": "Nenhuma opção de resgate de código no jogo está listada no momento",
+          "status": "Não Introduzido",
+          "action": "Abra o menu do jogo após grandes atualizações e procure por um botão de Códigos, Presentes, Recompensas ou Configurações."
+        }
+      ]
+    },
+    "bestBuildingsTierList": {
+      "title": "Tier List dos Melhores Edifícios de Kingdom Architect",
+      "displayType": "Grade de Tiers",
+      "intro": "Esta tier list focada em progressão organiza as categorias de estruturas confirmadas por sua utilidade ao expandir um novo reino. Edifícios econômicos vêm primeiro, seguidos por estruturas de layout e de castelo, enquanto o paisagismo detalhado deve ser adicionado após o ciclo principal de renda ser estabelecido.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Progressão Principal",
+          "structures": [
+            "Casas",
+            "Mercados"
+          ],
+          "bestFor": "Estabelecendo a aldeia e sustentando o ciclo de progressão de ganho de dinheiro.",
+          "strategy": "Posicione-as cedo e expanda a seção econômica do reino antes de dedicar grandes áreas à construção decorativa."
+        },
+        {
+          "tier": "A",
+          "label": "Essencial para o Layout",
+          "structures": [
+            "Estradas"
+          ],
+          "bestFor": "Conectando construções e organizando a expansão futura.",
+          "strategy": "Crie uma rede de estradas simples desde cedo para que novos distritos possam ser adicionados sem deixar espaços vazios inacessíveis ou estranhos."
+        },
+        {
+          "tier": "B",
+          "label": "Expansão do Castelo",
+          "structures": [
+            "Torres",
+            "Muralhas"
+          ],
+          "bestFor": "Definindo distritos e transformando a vila em uma cidade castelo fortificada.",
+          "strategy": "Adicione muralhas e torres após garantir terreno suficiente para o limite final do reino e principais áreas de construção."
+        },
+        {
+          "tier": "C",
+          "label": "Detalhamento do Reino",
+          "structures": [
+            "Jardins",
+            "Terreno",
+            "Água",
+            "Árvores",
+            "Decorações"
+          ],
+          "bestFor": "Paisagismo, preenchimento de espaços não utilizados e conclusão do design do reino de fantasia.",
+          "strategy": "Use-as depois que as construções principais, estradas e áreas de expansão estiverem estabelecidas, para que a decoração não restrinja a progressão."
+        }
+      ]
+    },
+    "moneyFarmingGuide": {
+      "title": "Guia de Farm de Dinheiro do Kingdom Architect",
+      "displayType": "passos",
+      "intro": "O dinheiro é ganho através das construções do reino e continua se acumulando por meio do crescimento offline. O caminho de progressão prático mais rápido é coletar os pagamentos frequentemente, reinvestir em construções funcionais, desbloquear melhorias e adiar a decoração extensiva até que o reino tenha uma base econômica estável.",
+      "steps": [
+        {
+          "title": "Construa a Primeira Base de Renda",
+          "description": "Use a área inicial para construções funcionais da aldeia, em vez de preenchê-la imediatamente com jardins e decorações.",
+          "priority": "Máxima"
+        },
+        {
+          "title": "Colete todos os rendimentos disponíveis",
+          "description": "Mova-se pela parte ativa do reino e colete os rendimentos dos edifícios concluídos antes de iniciar outra fase de construção.",
+          "priority": "Máxima"
+        },
+        {
+          "title": "Reinvista antes de decorar",
+          "description": "Gaste os ganhos iniciais em edifícios adicionais, estruturas recém-desbloqueadas e melhorias úteis. Adicione um paisagismo extenso depois que os rendimentos e a expansão estiverem estabelecidos.",
+          "priority": "Alta"
+        },
+        {
+          "title": "Use os ganhos offline",
+          "description": "Saia do reino após concluir o ciclo de construção atual e volte mais tarde para coletar as recompensas geradas pelo crescimento offline.",
+          "priority": "Alta"
+        },
+        {
+          "title": "Comprar Terreno para o Próximo Distrito",
+          "description": "Compre mais terrenos quando a área atual ficar lotada. Use o espaço adicional para outro grupo de construções funcionais antes de adicionar muros e zonas decorativas.",
+          "priority": "Médio"
+        },
+        {
+          "title": "Repetir o Ciclo de Crescimento",
+          "description": "Colete os ganhos, posicione mais construções, desbloqueie novas opções, expanda o terreno disponível e depois repita o processo até que a vila se torne um reino de castelo completo.",
+          "priority": "Contínuo"
+        }
+      ]
+    },
+    "buildingsAndUpgradesGuide": {
+      "title": "Guia de Construções e Melhorias de Kingdom Architect",
+      "displayType": "card-list",
+      "intro": "Kingdom Architect permite que os jogadores transformem uma pequena vila em uma grande cidade-castelo de fantasia. As construções contribuem para a progressão do reino, enquanto estradas, muros, terreno, água, árvores e decorações fornecem as ferramentas necessárias para criar um layout personalizado.",
+      "cards": [
+        {
+          "name": "Casas",
+          "category": "Construções da Vila",
+          "mainUse": "Desenvolva áreas residenciais e estabeleça a estrutura principal de um assentamento medieval.",
+          "placementTip": "Agrupe casas ao longo das estradas enquanto reserva espaço aberto para futuras construções e expansão de terras."
+        },
+        {
+          "name": "Mercados",
+          "category": "Construções de Renda",
+          "mainUse": "Crie distritos comerciais e contribua para o dinheiro coletado das construções do reino.",
+          "placementTip": "Coloque mercados perto de estradas conectadas para formar um centro de cidade organizado ou uma rua comercial."
+        },
+        {
+          "name": "Estradas e Caminhos",
+          "category": "Infraestrutura",
+          "mainUse": "Conecte casas, mercados, jardins, áreas do castelo e terras recém-compradas.",
+          "placementTip": "Construa primeiro uma estrada principal simples, depois adicione caminhos menores conforme o reino se expande."
+        },
+        {
+          "name": "Torres e Muralhas",
+          "category": "Estruturas do Castelo",
+          "mainUse": "Crie distritos fortificados, limites do castelo, portões e seções da cidade com aparência defensiva.",
+          "placementTip": "Use muralhas para definir áreas importantes e torres para destacar cantos, entradas e estradas principais."
+        },
+        {
+          "name": "Jardins e Decorações",
+          "category": "Embelezamento",
+          "mainUse": "Adicione detalhes a distritos residenciais, pátios de castelos, espaços públicos e beiras de estradas.",
+          "placementTip": "Use decorações após concluir a estrada principal e o layout das construções para que não bloqueiem a expansão."
+        },
+        {
+          "name": "Terreno, Água e Árvores",
+          "category": "Paisagismo",
+          "mainUse": "Modele áreas naturais e crie florestas, colinas, rios, lagos, jardins e distritos à beira-mar.",
+          "placementTip": "Mantenha grandes elementos de terreno e água perto das bordas das áreas desenvolvidas até que o traçado final da cidade seja estabelecido."
+        },
+        {
+          "name": "Desbloqueios de Construções",
+          "category": "Progressão",
+          "mainUse": "Expanda a seleção de construções disponíveis à medida que o reino cresce e alcança novas fases.",
+          "placementTip": "Continue coletando os rendimentos das construções e investindo na progressão antes de dedicar cada lote à decoração."
+        },
+        {
+          "name": "Melhorias do Reino",
+          "category": "Progressão",
+          "mainUse": "Melhore o assentamento e apoie a transição de uma vila inicial para um grande reino de castelo.",
+          "placementTip": "Priorize melhorias e novas estruturas que apoiem o crescimento contínuo antes de concluir distritos decorativos caros."
+        }
+      ]
+    },
+    "landExpansionGuide": {
+      "title": "Guia de Expansão de Terras de Kingdom Architect",
+      "displayType": "tabela",
+      "intro": "Os jogadores começam com uma pequena vila medieval e podem comprar mais terras conforme seu reino progride. A abordagem mais eficaz é estabelecer rendimentos de construções confiáveis, estender a rede de estradas e atribuir um propósito a cada nova área antes de preenchê-la com estruturas.",
+      "stages": [
+        {
+          "stage": "Vila Inicial",
+          "mainGoal": "Estabeleça o primeiro assentamento funcional.",
+          "recommendedLandUse": "Posicione as casas iniciais, mercados e estradas de conexão em uma área central compacta.",
+          "spendingPriority": "Construções geradoras de renda e desbloqueios de progressão inicial.",
+          "planningTip": "Deixe pelo menos um lado da vila aberto para uma conexão de estrada limpa com terras futuras."
+        },
+        {
+          "stage": "Primeira Expansão de Terras",
+          "mainGoal": "Crie espaço adicional para construções sem separar o novo distrito da vila original.",
+          "recommendedLandUse": "Estenda a estrada principal primeiro e depois adicione construções em ambos os lados da conexão.",
+          "spendingPriority": "Terras adicionais, estruturas úteis e melhorias que apoiam o crescimento contínuo.",
+          "planningTip": "Evite preencher a fronteira entre os lotes com decorações grandes antes que a rede de estradas esteja completa."
+        },
+        {
+          "stage": "Rua Comercial",
+          "mainGoal": "Construa um distrito de mercado ou de vendedores reconhecível.",
+          "recommendedLandUse": "Crie uma rua reta ou levemente curva com edifícios comerciais e detalhes decorativos.",
+          "spendingPriority": "Mercados, áreas de vendedores, estradas, caminhos e decorações de apoio.",
+          "planningTip": "Desenvolva uma rua em torno de um único tema comercial para que possa ser estendida quando mais terras chegarem."
+        },
+        {
+          "stage": "Distrito do Castelo",
+          "mainGoal": "Introduza torres, muralhas, portões e espaços formais de castelo.",
+          "recommendedLandUse": "Reserve uma área conectada maior para muralhas, torres, pátios, jardins e estradas principais.",
+          "spendingPriority": "Estruturas de castelo, novos desbloqueios e terreno necessário para um layout fortificado completo.",
+          "planningTip": "Planeje a muralha externa antes de colocar as decorações interiores para que o distrito mantenha um formato nítido."
+        },
+        {
+          "stage": "Reino Grande",
+          "mainGoal": "Conecte áreas residenciais, comerciais, de castelo, de jardim e da orla em uma única cidade.",
+          "recommendedLandUse": "Use distritos separados conectados por uma rede de estradas principais e caminhos menores.",
+          "spendingPriority": "Terras restantes, estruturas avançadas, melhorias, paisagismo e detalhes visuais.",
+          "planningTip": "Complete o layout funcional da cidade antes de usar terreno, água e decoração densa para preencher espaços não utilizados."
+        }
+      ]
+    },
+    "offlineEarningsGuide": {
+      "title": "Guia de Ganhos Offline do Kingdom Architect",
+      "displayType": "acordeão",
+      "intro": "O crescimento offline faz parte do sistema de progressão principal em Kingdom Architect. O dinheiro gerado pelos edifícios pode ajudar a financiar estruturas adicionais, melhorias, decorações e compras de terrenos quando o jogador retornar.",
+      "faqs": [
+        {
+          "question": "O que continua enquanto estou offline em Kingdom Architect?",
+          "answer": "Seu reino em Kingdom Architect continua progredindo e lucrando com seus edifícios enquanto você está longe do jogo."
+        },
+        {
+          "question": "Como devo preparar meu reino em Kingdom Architect antes de sair?",
+          "answer": "Posicione os edifícios de renda disponíveis, colete quaisquer pagamentos prontos e conclua melhorias úteis antes de sair para que o reino esteja preparado para o crescimento offline contínuo."
+        },
+        {
+          "question": "O que devo fazer imediatamente após retornar ao Kingdom Architect?",
+          "answer": "Colete as recompensas offline disponíveis primeiro, analise as estruturas ou melhorias recém-disponíveis e decida se o próximo investimento deve ser um edifício, uma melhoria ou mais terreno."
+        },
+        {
+          "question": "No que os ganhos offline de Kingdom Architect devem ser gastos?",
+          "answer": "Use as recompensas para apoiar a progressão por meio de novas estruturas, melhorias do reino, edifícios de renda e expansão de terras. Decorações são mais fáceis de planejar após o próximo distrito funcional ser financiado."
+        },
+        {
+          "question": "Como os ganhos offline ajudam na expansão do Kingdom Architect?",
+          "answer": "As recompensas acumuladas fornecem dinheiro para comprar terras adicionais e posicionar as construções necessárias para transformar o vilarejo inicial em uma cidade-castelo maior."
+        },
+        {
+          "question": "Devo redesenhar meu reino do Kingdom Architect antes de coletar as recompensas?",
+          "answer": "Colete o rendimento disponível primeiro. Após confirmar o orçamento atual, estenda as estradas e organize o próximo distrito antes de colocar grandes elementos decorativos."
+        }
+      ]
+    },
+    "layoutAndDecorationIdeas": {
+      "title": "Ideias de Layout e Decoração do Kingdom Architect",
+      "displayType": "Galeria de cartões",
+      "intro": "Um layout de reino forte começa com estradas e limites de distrito, em vez de decorações individuais. Escolha uma rota central, atribua um propósito a cada área e use elementos naturais e objetos decorativos para completar o design após posicionar as estruturas principais.",
+      "items": [
+        {
+          "name": "Vilarejo Inicial Compacto",
+          "theme": "Residencial",
+          "recommendedElements": [
+            "Casas",
+            "Mercados",
+            "Estrada principal",
+            "Caminhos pequenos",
+            "Árvores"
+          ],
+          "layoutIdea": "Coloque casas ao redor de uma estrada central curta com um mercado perto da entrada e pequenos espaços abertos entre grupos de construções.",
+          "expansionTip": "Mantenha uma extremidade da estrada principal inacabada para que ela possa se conectar diretamente a terras recém-compradas."
+        },
+        {
+          "name": "Rua do Mercado",
+          "theme": "Comercial",
+          "recommendedElements": [
+            "Construções de vendedores ou mercados",
+            "Estrada reta",
+            "Caminhos",
+            "Árvores",
+            "Decorações de rua"
+          ],
+          "layoutIdea": "Desenvolva uma rua como uma via comercial temática com espaçamento repetido entre construções para um distrito de compras organizado.",
+          "expansionTip": "Use um espaçamento consistente entre construções para que a rua possa ser estendida quando mais terras ficarem disponíveis."
+        },
+        {
+          "name": "Núcleo do Castelo Amuralhado",
+          "theme": "Castelo",
+          "recommendedElements": [
+            "Muralhas",
+            "Torres",
+            "Entrada do portão",
+            "Pátio",
+            "Jardins"
+          ],
+          "layoutIdea": "Crie uma área central fortificada com torres nos cantos principais e uma estrada que vai do portão até um pátio interno.",
+          "expansionTip": "Complete o contorno da muralha antes de preencher o pátio, deixando espaço para as estruturas de castelo recém-desbloqueadas."
+        },
+        {
+          "name": "Distrito de Jardins Formais",
+          "theme": "Decoração",
+          "recommendedElements": [
+            "Jardins",
+            "Caminhos",
+            "Árvores",
+            "Água",
+            "Decorações"
+          ],
+          "layoutIdea": "Use caminhos simétricos ao redor de um lago ou decoração central, depois emoldure a área com árvores e detalhes de jardim.",
+          "expansionTip": "Coloque o jardim ao lado de um distrito concluído, em vez de diretamente na rota principal de expansão do reino."
+        },
+        {
+          "name": "Distrito da Orla",
+          "theme": "Paisagem",
+          "recommendedElements": [
+            "Água",
+            "Terreno",
+            "Estradas",
+            "Construções",
+            "Árvores"
+          ],
+          "layoutIdea": "Molde um rio, lagoa ou margem ao longo da extremidade do assentamento e posicione uma estrada entre a água e as construções próximas.",
+          "expansionTip": "Mantenha os elementos aquáticos próximos a um limite externo para que não dividam futuros lotes de construção."
+        },
+        {
+          "name": "Vila à Beira da Floresta",
+          "theme": "Natural",
+          "recommendedElements": [
+            "Árvores",
+            "Terreno",
+            "Casas",
+            "Caminhos curvos",
+            "Pequenas decorações"
+          ],
+          "layoutIdea": "Use grupos de árvores e terrenos irregulares ao redor de um pequeno grupo de casas para criar um assentamento rural fora da cidade principal.",
+          "expansionTip": "Deixe espaços entre os grupos de árvores para que as estradas possam conectar a vila a novos distritos mais tarde."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre o Kingdom Architect",
+    "questions": [
+      {
+        "question": "O que é o Kingdom Architect?",
+        "answer": "Kingdom Architect é um tycoon medieval de construção de reino no Roblox onde estruturas posicionadas geram progresso e dinheiro, com crescimento offline, melhorias e expansão de terras."
+      },
+      {
+        "question": "Onde posso jogar Kingdom Architect?",
+        "answer": "Kingdom Architect está disponível no Roblox. Você pode iniciar a experiência a partir da página oficial do jogo no Roblox em qualquer dispositivo compatível."
+      },
+      {
+        "question": "O Kingdom Architect possui códigos resgatáveis?",
+        "answer": "O Kingdom Architect não publica códigos de recompensa resgatáveis no momento nem lista um sistema de resgate de códigos. Verifique a experiência oficial no Roblox e a comunidade da Finite Works para anúncios futuros."
+      },
+      {
+        "question": "Como ganho dinheiro no Kingdom Architect?",
+        "answer": "No Kingdom Architect, o dinheiro é ganho coletando os pagamentos dos edifícios. Reinvista os ganhos em novas estruturas, melhorias e terrenos para aumentar seu ciclo de renda."
+      },
+      {
+        "question": "O Kingdom Architect progride enquanto estou offline?",
+        "answer": "Sim. O Kingdom Architect continua construindo e rendendo enquanto você está fora. Volte regularmente para coletar recompensas offline e reinvesti-las na expansão."
+      },
+      {
+        "question": "Como expando meu reino no Kingdom Architect?",
+        "answer": "No Kingdom Architect, você compra terrenos adicionais à medida que seu reino cresce. Estenda as estradas primeiro, atribua um propósito a cada nova área e preencha-a com edifícios funcionais antes de decorar."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Construir Seu Reino?",
+    "description": "Jogue Kingdom Architect no Roblox, posicione seus primeiros edifícios, colete renda e transforme sua vila medieval em uma cidade castelo.",
+    "joinCommunity": "Junte-se à Comunidade",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Kingdom Architect",
+    "description": "Sua central de recursos completa para guias de edifícios, dinheiro, crescimento offline, melhorias, layouts e expansão de terras em Kingdom Architect.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Legal",
+    "robloxGame": "Jogo no Roblox",
+    "robloxGroup": "Comunidade da Finite Works",
+    "reddit": "Reddit",
+    "youtube": "Vídeo de Jogabilidade",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Kingdom Architect Wiki. Não afiliado à Roblox Corporation ou Finite Works.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guia de Kingdom Architect",
+      "description": "Guias passo a passo de Kingdom Architect cobrindo sua primeira aldeia, ordem de construção, prioridade de gastos, expansão de terra e progressão de fim de jogo.",
+      "metaTitle": "Guia de Kingdom Architect - Da Progressão Iniciante ao Fim de Jogo",
+      "metaDescription": "Domine Kingdom Architect com guias sobre sua primeira aldeia, ordem de construção, prioridade de gastos, ordem de expansão e estratégia de fim de jogo para o tycoon de reino medieval.",
+      "categoryLabel": "GUIA DO JOGO",
+      "whatIs": "O que é o Guia?",
+      "whatIsDescription": "Um passo a passo completo da progressão no Kingdom Architect, desde a colocação das suas primeiras construções e coleta de rendimentos até a gestão de prioridades de gastos, expansão de terras e alcance do estágio de cidade castelo no final do jogo.",
+      "why": "Por que ler o guia?",
+      "whySteps": {
+        "step1Title": "Comece do Jeito Certo",
+        "step1Description": "Construa sua primeira vila com um layout compacto e expansível e uma base de renda estável",
+        "step2Title": "Progrida com Eficiência",
+        "step2Description": "Siga a ordem recomendada de construção e expansão para crescer sem desperdiçar gastos",
+        "step3Title": "Chegue ao Final do Jogo",
+        "step3Description": "Conecte distritos, fortifique seu castelo e complete um reino medieval próspero"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias"
+    },
+    "codes": {
+      "title": "Códigos do Kingdom Architect",
+      "description": "O status atual dos códigos do Kingdom Architect, como o resgate pode funcionar em atualizações futuras e onde encontrar recompensas oficiais.",
+      "metaTitle": "Códigos do Kingdom Architect - Status de Recompensas e Guia de Resgate",
+      "metaDescription": "Confira o status atual dos códigos do Kingdom Architect, como um sistema de resgate pode funcionar e onde os anúncios oficiais de recompensas da Finite Works aparecerão.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos?",
+      "whatIsDescription": "Códigos de resgate são pequenas sequências de texto que os jogadores inserem para resgatar recompensas gratuitas, como moedas, melhorias ou itens cosméticos. Kingdom Architect está atualmente em BETA e não introduziu um sistema de resgate de códigos, por isso ainda não existem códigos ativos.",
+      "why": "Por que verificar os códigos?",
+      "whySteps": {
+        "step1Title": "Saiba o Status Atual",
+        "step1Description": "Veja se há códigos de Kingdom Architect ativos ou expirados disponíveis no momento",
+        "step2Title": "Use Fontes Oficiais",
+        "step2Description": "Resgate códigos apenas na experiência oficial do Roblox e da Finite Works, não em sites de terceiros que anunciam códigos secretos",
+        "step3Title": "Encontre Recompensas Oficiais",
+        "step3Description": "Acompanhe a experiência oficial do Roblox e a comunidade da Finite Works para anúncios futuros"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Códigos"
+    },
+    "buildings": {
+      "title": "Construções de Kingdom Architect",
+      "description": "Cada categoria de construção de Kingdom Architect explicada, incluindo uma tier list, casas, mercados, estradas, muralhas, torres, decorações e jardins.",
+      "metaTitle": "Construções de Kingdom Architect - Tier List e Guia de Posicionamento",
+      "metaDescription": "Explore as construções de Kingdom Architect com uma tier list completa e guias de casas, mercados, estradas, muralhas, torres, decorações e jardins para construir um reino medieval.",
+      "categoryLabel": "CONSTRUÇÕES",
+      "whatIs": "O que são Construções?",
+      "whatIsDescription": "Construções são as estruturas que você posiciona para desenvolver seu reino, gerar renda e progredir em direção a uma cidade castelo. Kingdom Architect inclui casas, mercados, estradas, muralhas, torres, decorações, jardins e muito mais, cada um com um papel na progressão e no layout.",
+      "why": "Por que estudar as construções?",
+      "whySteps": {
+        "step1Title": "Escolha as Melhores Construções",
+        "step1Description": "Use a tier list para escolher estruturas com o melhor valor de rendimento e progressão",
+        "step2Title": "Posicione as Construções de Forma Inteligente",
+        "step2Description": "Agrupe casas, mercados e estradas para que os distritos se expandam sem precisar reconstruir",
+        "step3Title": "Complete Cada Categoria",
+        "step3Description": "Adicione muralhas, torres, jardins e decorações para completar um reino medieval inteiro"
+      },
+      "featured": "Em Destaque e Essenciais",
+      "all": "Todas as Construções"
+    },
+    "upgrades": {
+      "title": "Melhorias de Kingdom Architect",
+      "description": "Guias de melhorias de Kingdom Architect cobrindo as melhores melhorias, custos de melhoria, melhorias de construções, melhorias de castelo e desbloqueios de progressão.",
+      "metaTitle": "Melhorias de Kingdom Architect - Melhor Ordem, Custos e Desbloqueios",
+      "metaDescription": "Domine as melhorias de Kingdom Architect com guias sobre a melhor ordem de melhoria, custos, melhorias de construções, melhorias de castelo e desbloqueios de progressão para um crescimento mais rápido do reino.",
+      "categoryLabel": "MELHORIAS",
+      "whatIs": "O que são Melhorias?",
+      "whatIsDescription": "As melhorias aprimoram as construções do seu reino, o castelo e a progressão geral, aumentando os ganhos e desbloqueando novas estruturas. Escolher a ordem de melhoria correta e gerenciar os custos mantém seu reino crescendo de forma eficiente.",
+      "why": "Por que planejar melhorias?",
+      "whySteps": {
+        "step1Title": "Melhore na melhor ordem",
+        "step1Description": "Priorize melhorias que aumentem a renda e desbloqueiem estruturas de alto valor primeiro",
+        "step2Title": "Gerencie os custos de melhorias",
+        "step2Description": "Equilibre os gastos entre novas construções, melhorias e compra de terras",
+        "step3Title": "Desbloqueie níveis de progressão",
+        "step3Description": "Alcance melhorias do castelo e desbloqueios que transformam sua vila em uma cidade"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as melhorias"
+    },
+    "layout": {
+      "title": "Layout do Kingdom Architect",
+      "description": "Guias de layout do Kingdom Architect para os melhores layouts, layouts de vila e castelo, redes de estradas, expansão de terras e design de terreno e água.",
+      "metaTitle": "Layout do Kingdom Architect - Design de Vila, Castelo e Estradas",
+      "metaDescription": "Planeje seu layout do Kingdom Architect com guias sobre os melhores layouts, design de vila e castelo, redes de estradas, expansão de terras e recursos de terreno e água.",
+      "categoryLabel": "LAYOUTS",
+      "whatIs": "O que é Layout?",
+      "whatIsDescription": "Layout é como você organiza estradas, distritos, construções, terreno e água pelo seu reino. Um layout forte no Kingdom Architect começa com estradas e limites de distritos, depois adiciona decoração para que o reino permaneça organizado e expansível.",
+      "why": "Por que planejar layouts?",
+      "whySteps": {
+        "step1Title": "Projete Distritos Limpos",
+        "step1Description": "Atribua um propósito a cada área, de vila a castelo, antes de posicionar as estruturas",
+        "step2Title": "Construa uma Rede de Estradas",
+        "step2Description": "Planeje as estradas cedo para que novas terras se conectem sem lacunas estranhas",
+        "step3Title": "Modele o Terreno e a Água",
+        "step3Description": "Use terreno, água e árvores para criar distritos atraentes e com aparência natural"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Layouts"
+    },
+    "money": {
+      "title": "Dinheiro no Kingdom Architect",
+      "description": "Guias de dinheiro do Kingdom Architect cobrindo o guia de dinheiro, coleta de rendimentos, construções de renda, custos de construção e custos de terrenos.",
+      "metaTitle": "Dinheiro no Kingdom Architect - Guia de Renda, Rendimentos e Custos",
+      "metaDescription": "Aumente sua renda no Kingdom Architect com guias sobre farm de dinheiro, coleta de rendimentos, construções de renda, custos de construção e custos de terrenos para um crescimento constante do reino.",
+      "categoryLabel": "ECONOMIA",
+      "whatIs": "O que é Dinheiro?",
+      "whatIsDescription": "O dinheiro é ganho ao coletar rendimentos dos edifícios do seu reino e continua se acumulando através do crescimento offline. Ele financia novas estruturas, melhorias, decorações e terras, tornando um ciclo de renda confiável o núcleo da progressão a longo prazo.",
+      "why": "Por que otimizar o dinheiro?",
+      "whySteps": {
+        "step1Title": "Construa Edifícios de Renda",
+        "step1Description": "Coloque casas e mercados que geram rendimentos constantes para o seu reino",
+        "step2Title": "Colete e Reinvista",
+        "step2Description": "Colete rendimentos frequentemente e reinvista-os no crescimento antes de decorar",
+        "step3Title": "Controle os Custos de Edifícios e Terras",
+        "step3Description": "Planeje os gastos com base nos custos de edifícios e terras para que a expansão continue acessível"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Dinheiro"
+    },
+    "controls": {
+      "title": "Controles do Kingdom Architect",
+      "description": "Controles do Kingdom Architect para PC e celular, incluindo como colocar, girar e mover construções em todos os dispositivos.",
+      "metaTitle": "Controles do Kingdom Architect - Colocar, Girar e Mover Construções",
+      "metaDescription": "Aprenda todos os controles do Kingdom Architect no PC e celular, incluindo como colocar, girar e mover construções, com dicas adaptadas para celular para construir seu reino.",
+      "categoryLabel": "CONTROLES",
+      "whatIs": "O que são Controles?",
+      "whatIsDescription": "Os controles são como você interage com o Kingdom Architect no PC e no celular, cobrindo a movimentação da câmera, a colocação de construções, a rotação delas para se ajustarem ao seu layout e a movimentação de estruturas ao redesenhar seu reino.",
+      "why": "Por que aprender os controles?",
+      "whySteps": {
+        "step1Title": "Colocar construções com precisão",
+        "step1Description": "Posicione as estruturas exatamente onde você deseja no layout do seu distrito",
+        "step2Title": "Girar para Ajustar",
+        "step2Description": "Gire as construções para alinhar com estradas e espaços apertados sem precisar reconstruir",
+        "step3Title": "Mover e Redesenhar",
+        "step3Description": "Realoque construções existentes conforme seu reino e layout evoluem com o tempo"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Controles"
+    },
+    "updates": {
+      "title": "Atualizações do Kingdom Architect",
+      "description": "Atualizações do Kingdom Architect, data de lançamento, novas construções e links oficiais da comunidade da Finite Works.",
+      "metaTitle": "Atualizações do Kingdom Architect - Data de Lançamento, Novas Construções e Notícias",
+      "metaDescription": "Acompanhe as atualizações de Kingdom Architect, data de lançamento, novos edifícios e links oficiais da comunidade Finite Works, incluindo Discord e Reddit, para o tycoon de reino medieval.",
+      "categoryLabel": "ATUALIZAÇÕES",
+      "whatIs": "O que são Atualizações?",
+      "whatIsDescription": "As atualizações abrangem mudanças de versão, novos edifícios, recursos e correções lançadas para Kingdom Architect pelo desenvolvedor Finite Works. Acompanhar as atualizações ajuda você a identificar novos conteúdos e ajustar a estratégia do seu reino.",
+      "why": "Por que acompanhar as atualizações?",
+      "whySteps": {
+        "step1Title": "Descubra Novos Edifícios",
+        "step1Description": "Veja novas estruturas e recursos conforme a Finite Works as adiciona ao jogo",
+        "step2Title": "Acompanhe a Data de Lançamento",
+        "step2Description": "Mantenha-se informado sobre o status de desenvolvimento BETA e o cronograma de lançamento completo",
+        "step3Title": "Junte-se à Comunidade",
+        "step3Description": "Conecte-se pelos canais oficiais do Discord e Reddit para anúncios e discussões"
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Atualizações"
+    }
+  }
+}
