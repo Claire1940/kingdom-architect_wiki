@@ -155,7 +155,7 @@
     },
     "codes": {
       "title": "Códigos de Kingdom Architect",
-      "displayType": "cartões de códigos",
+      "displayType": "code-cards",
       "intro": "Kingdom Architect não publica atualmente nenhum código de recompensa resgatável nem lista um sistema de resgate de códigos. Futuros códigos e anúncios do jogo devem ser verificados através da experiência oficial do Roblox e da comunidade Finite Works.",
       "items": [
         {
@@ -180,7 +180,7 @@
     },
     "bestBuildingsTierList": {
       "title": "Tier List dos Melhores Edifícios de Kingdom Architect",
-      "displayType": "Grade de Tiers",
+      "displayType": "tier-grid",
       "intro": "Esta tier list focada em progressão organiza as categorias de estruturas confirmadas por sua utilidade ao expandir um novo reino. Edifícios econômicos vêm primeiro, seguidos por estruturas de layout e de castelo, enquanto o paisagismo detalhado deve ser adicionado após o ciclo principal de renda ser estabelecido.",
       "tiers": [
         {
@@ -394,7 +394,7 @@
     },
     "layoutAndDecorationIdeas": {
       "title": "Ideias de Layout e Decoração do Kingdom Architect",
-      "displayType": "Galeria de cartões",
+      "displayType": "card-gallery",
       "intro": "Um layout de reino forte começa com estradas e limites de distrito, em vez de decorações individuais. Escolha uma rota central, atribua um propósito a cada área e use elementos naturais e objetos decorativos para completar o design após posicionar as estruturas principais.",
       "items": [
         {

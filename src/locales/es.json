@@ -155,7 +155,7 @@
     },
     "codes": {
       "title": "Códigos de Kingdom Architect",
-      "displayType": "tarjetas de códigos",
+      "displayType": "code-cards",
       "intro": "Kingdom Architect no publica actualmente ningún código de recompensa canjeable ni cuenta con un sistema de canje de códigos. Los futuros códigos y anuncios del juego deben consultarse a través de la experiencia oficial de Roblox y la comunidad de Finite Works.",
       "items": [
         {
@@ -180,7 +180,7 @@
     },
     "bestBuildingsTierList": {
       "title": "Lista de niveles de los mejores edificios de Kingdom Architect",
-      "displayType": "Cuadrícula de niveles",
+      "displayType": "tier-grid",
       "intro": "Esta lista de niveles centrada en la progresión organiza las categorías de estructuras confirmadas según su utilidad al hacer crecer un nuevo reino. Los edificios económicos van primero, seguidos por las estructuras de distribución y del castillo, mientras que es mejor agregar el paisajismo detallado una vez establecido el ciclo de ingresos principal.",
       "tiers": [
         {
