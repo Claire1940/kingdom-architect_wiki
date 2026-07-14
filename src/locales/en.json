@@ -10,7 +10,16 @@
       "twitterDescription": "Kingdom Architect Wiki: buildings, money, offline growth, upgrades, layouts, and Roblox update guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "buildings": "Buildings",
+    "upgrades": "Upgrades",
+    "layout": "Layout",
+    "money": "Money",
+    "controls": "Controls",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -474,125 +483,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Kingdom Architect Guides",
-      "description": "Complete Kingdom Architect guides from beginner basics to advanced building, economy, and layout strategies.",
-      "metaTitle": "Kingdom Architect Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Kingdom Architect guides covering beginner tips, buildings, money farming, upgrades, layouts, and land expansion for the medieval kingdom tycoon.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering Kingdom Architect gameplay mechanics, building strategies, and the economy system. Learn everything from first steps to advanced kingdom layouts.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "Kingdom Architect Guide",
+      "description": "Step-by-step Kingdom Architect guides covering your first village, building order, spending priority, land expansion, and late-game progression.",
+      "metaTitle": "Kingdom Architect Guide - Beginner to Late Game Progression",
+      "metaDescription": "Master Kingdom Architect with guides on your first village, building order, spending priority, expansion order, and late-game strategy for the medieval kingdom tycoon.",
+      "categoryLabel": "GAME GUIDE",
+      "whatIs": "What is the Guide?",
+      "whatIsDescription": "A complete walkthrough of Kingdom Architect progression, from placing your first buildings and collecting payouts to managing spending priority, expanding land, and reaching the late-game castle city stage.",
+      "why": "Why read the guide?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand buildings, payouts, and offline growth and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to grow your village into a thriving castle city",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for economy, expansion, and kingdom layouts"
+        "step1Title": "Start the Right Way",
+        "step1Description": "Build your first village with a compact, expandable layout and a steady income base",
+        "step2Title": "Progress Efficiently",
+        "step2Description": "Follow the recommended building and expansion order to grow without wasted spending",
+        "step3Title": "Reach the Late Game",
+        "step3Description": "Connect districts, fortify your castle, and complete a thriving medieval kingdom"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
+    "codes": {
+      "title": "Kingdom Architect Codes",
+      "description": "The current status of Kingdom Architect codes, how redemption may work in future updates, and where to find official rewards.",
+      "metaTitle": "Kingdom Architect Codes - Reward Status & Redemption Guide",
+      "metaDescription": "Check the current Kingdom Architect codes status, how a redemption system may work, and where official Finite Works reward announcements will appear.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Redeem codes are short strings players enter to claim free rewards such as currency, boosts, or cosmetic items. Kingdom Architect is currently in BETA and has not introduced a code redemption system, so no working codes exist yet.",
+      "why": "Why check codes?",
+      "whySteps": {
+        "step1Title": "Know the Current Status",
+        "step1Description": "See whether any active or expired Kingdom Architect codes are available right now",
+        "step2Title": "Use Official Sources",
+        "step2Description": "Claim codes only from the official Roblox experience and Finite Works, not third-party sites advertising secret codes",
+        "step3Title": "Find Official Rewards",
+        "step3Description": "Track the official Roblox experience and Finite Works community for future announcements"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
     "buildings": {
       "title": "Kingdom Architect Buildings",
-      "description": "Master Kingdom Architect buildings, upgrades, decorations, and castle structures with placement tips and progression strategies.",
-      "metaTitle": "Kingdom Architect Buildings & Upgrades Guide",
-      "metaDescription": "Master Kingdom Architect buildings including houses, markets, roads, towers, walls, gardens, terrain, and kingdom upgrades for building a medieval castle city.",
-      "categoryLabel": "BUILDINGS & UPGRADES",
+      "description": "Every Kingdom Architect building category explained, including a tier list, houses, markets, roads, walls, towers, decorations, and gardens.",
+      "metaTitle": "Kingdom Architect Buildings - Tier List & Placement Guide",
+      "metaDescription": "Explore Kingdom Architect buildings with a full tier list plus guides on houses, markets, roads, walls, towers, decorations, and gardens for building a medieval kingdom.",
+      "categoryLabel": "BUILDINGS",
       "whatIs": "What are Buildings?",
-      "whatIsDescription": "Comprehensive guides to Kingdom Architect structures, decorations, and upgrades. Learn placement strategies, income value, and how each building supports progression.",
+      "whatIsDescription": "Buildings are the structures you place to develop your kingdom, generate income, and progress toward a castle city. Kingdom Architect includes houses, markets, roads, walls, towers, decorations, gardens, and more, each with a role in progression and layout.",
       "why": "Why study buildings?",
       "whySteps": {
-        "step1Title": "Choose the Right Buildings",
-        "step1Description": "Discover which structures offer the best income and progression value",
-        "step2Title": "Optimize Layouts",
-        "step2Description": "Place buildings along roads to support clean district expansion",
-        "step3Title": "Unlock Upgrades",
-        "step3Description": "Progress through building unlocks and kingdom upgrades in the right order"
+        "step1Title": "Pick the Best Buildings",
+        "step1Description": "Use the tier list to choose structures with the strongest income and progression value",
+        "step2Title": "Place Buildings Smartly",
+        "step2Description": "Group houses, markets, and roads so districts expand without rebuilding",
+        "step3Title": "Complete Every Category",
+        "step3Description": "Add walls, towers, gardens, and decorations to finish a full medieval kingdom"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Buildings"
     },
-    "economy": {
-      "title": "Kingdom Architect Economy",
-      "description": "Master money farming, payouts, offline earnings, and reinvestment strategies to grow your Kingdom Architect income.",
-      "metaTitle": "Kingdom Architect Economy - Money Farming & Offline Earnings",
-      "metaDescription": "Master Kingdom Architect economy with money farming routes, building payouts, offline earnings, and reinvestment strategies for faster kingdom growth.",
-      "categoryLabel": "ECONOMY & MONEY",
-      "whatIs": "What is the Economy?",
-      "whatIsDescription": "Guides to earning and reinvesting money in Kingdom Architect. Learn payout loops, offline growth, and the best spending order for long-term progression.",
-      "why": "Why optimize economy?",
+    "upgrades": {
+      "title": "Kingdom Architect Upgrades",
+      "description": "Kingdom Architect upgrade guides covering the best upgrades, upgrade costs, building upgrades, castle upgrades, and progression unlocks.",
+      "metaTitle": "Kingdom Architect Upgrades - Best Order, Costs & Unlocks",
+      "metaDescription": "Master Kingdom Architect upgrades with guides on the best upgrade order, costs, building upgrades, castle upgrades, and progression unlocks for faster kingdom growth.",
+      "categoryLabel": "UPGRADES",
+      "whatIs": "What are Upgrades?",
+      "whatIsDescription": "Upgrades improve your kingdom's buildings, castle, and overall progression, boosting income and unlocking new structures. Choosing the right upgrade order and managing costs keeps your kingdom growing efficiently.",
+      "why": "Why plan upgrades?",
       "whySteps": {
-        "step1Title": "Build Income Loops",
-        "step1Description": "Set up reliable payout collection from your kingdom's buildings",
-        "step2Title": "Use Offline Growth",
-        "step2Description": "Earn while away and reinvest rewards into expansion",
-        "step3Title": "Reinvest Wisely",
-        "step3Description": "Spend on buildings, upgrades, and land that grow your income"
+        "step1Title": "Upgrade in the Best Order",
+        "step1Description": "Prioritize upgrades that raise income and unlock high-value structures first",
+        "step2Title": "Manage Upgrade Costs",
+        "step2Description": "Balance spending between new buildings, upgrades, and land purchases",
+        "step3Title": "Unlock Progression Tiers",
+        "step3Description": "Reach castle upgrades and unlocks that transform your village into a city"
       },
       "featured": "Featured & Essential",
-      "all": "All Economy Guides"
+      "all": "All Upgrades"
     },
-    "layouts": {
-      "title": "Kingdom Architect Layouts",
-      "description": "Explore village, castle, garden, and waterfront layout ideas using roads, walls, terrain, trees, and decorations.",
-      "metaTitle": "Kingdom Architect Layouts - Village, Castle & Garden Ideas",
-      "metaDescription": "Explore Kingdom Architect layout ideas including compact villages, walled castle cores, formal gardens, and waterfront quarters for building an attractive kingdom.",
-      "categoryLabel": "LAYOUTS & DESIGNS",
-      "whatIs": "What are Layouts?",
-      "whatIsDescription": "Guides to Kingdom Architect district layouts, road planning, and decoration. Learn how to design attractive kingdoms without blocking future land expansion.",
+    "layout": {
+      "title": "Kingdom Architect Layout",
+      "description": "Kingdom Architect layout guides for the best layouts, village and castle layouts, road networks, land expansion, and terrain and water design.",
+      "metaTitle": "Kingdom Architect Layout - Village, Castle & Road Design",
+      "metaDescription": "Plan your Kingdom Architect layout with guides on the best layouts, village and castle design, road networks, land expansion, and terrain and water features.",
+      "categoryLabel": "LAYOUTS",
+      "whatIs": "What is Layout?",
+      "whatIsDescription": "Layout is how you arrange roads, districts, buildings, terrain, and water across your kingdom. A strong Kingdom Architect layout starts with roads and district boundaries, then adds decoration so the kingdom stays organized and expandable.",
       "why": "Why plan layouts?",
       "whySteps": {
-        "step1Title": "Plan Districts",
-        "step1Description": "Assign each area a purpose before placing structures",
-        "step2Title": "Connect with Roads",
-        "step2Description": "Build a road network that keeps expansion clean",
-        "step3Title": "Add Decoration",
-        "step3Description": "Finish unused spaces with gardens, trees, and details"
+        "step1Title": "Design Clean Districts",
+        "step1Description": "Assign each area a purpose, from village to castle, before placing structures",
+        "step2Title": "Build a Road Network",
+        "step2Description": "Lay out roads early so new land connects without awkward gaps",
+        "step3Title": "Shape Terrain and Water",
+        "step3Description": "Use terrain, water, and trees to finish attractive, natural-looking districts"
       },
       "featured": "Featured & Essential",
-      "all": "All Layout Guides"
+      "all": "All Layouts"
     },
-    "expansion": {
-      "title": "Kingdom Architect Expansion",
-      "description": "Plan land purchases, district development, and the growth path from a starter village to a large castle city.",
-      "metaTitle": "Kingdom Architect Expansion - Land Purchase & District Guide",
-      "metaDescription": "Master Kingdom Architect land expansion with stage-by-stage planning, spending priorities, and district development for growing a medieval castle city.",
-      "categoryLabel": "LAND EXPANSION",
-      "whatIs": "What is Expansion?",
-      "whatIsDescription": "Guides to buying land and developing districts in Kingdom Architect. Learn when to expand, how to connect new plots, and how to keep the kingdom organized.",
-      "why": "Why plan expansion?",
+    "money": {
+      "title": "Kingdom Architect Money",
+      "description": "Kingdom Architect money guides covering the money guide, payout collection, income buildings, building costs, and land costs.",
+      "metaTitle": "Kingdom Architect Money - Income, Payouts & Costs Guide",
+      "metaDescription": "Grow your Kingdom Architect income with guides on money farming, payout collection, income buildings, building costs, and land costs for steady kingdom growth.",
+      "categoryLabel": "ECONOMY",
+      "whatIs": "What is Money?",
+      "whatIsDescription": "Money is earned by collecting payouts from your kingdom's buildings and keeps accumulating through offline growth. It funds new structures, upgrades, decorations, and land, making a reliable income loop the core of long-term progression.",
+      "why": "Why optimize money?",
       "whySteps": {
-        "step1Title": "Time Land Purchases",
-        "step1Description": "Buy land when the current district becomes crowded",
-        "step2Title": "Connect Districts",
-        "step2Description": "Extend roads so new plots join the kingdom cleanly",
-        "step3Title": "Assign Purpose",
-        "step3Description": "Give each new area a role before filling it with buildings"
+        "step1Title": "Build Income Buildings",
+        "step1Description": "Place houses and markets that generate steady payouts for your kingdom",
+        "step2Title": "Collect and Reinvest",
+        "step2Description": "Gather payouts frequently and reinvest them into growth before decorating",
+        "step3Title": "Control Building and Land Costs",
+        "step3Description": "Plan spending around building and land costs so expansion stays affordable"
       },
       "featured": "Featured & Essential",
-      "all": "All Expansion Guides"
+      "all": "All Money Guides"
+    },
+    "controls": {
+      "title": "Kingdom Architect Controls",
+      "description": "Kingdom Architect controls for PC and mobile, including how to place, rotate, and move buildings across all devices.",
+      "metaTitle": "Kingdom Architect Controls - Place, Rotate & Move Buildings",
+      "metaDescription": "Learn every Kingdom Architect control on PC and mobile, including how to place, rotate, and move buildings, with mobile-friendly tips for building your kingdom.",
+      "categoryLabel": "CONTROLS",
+      "whatIs": "What are Controls?",
+      "whatIsDescription": "Controls are how you interact with Kingdom Architect on PC and mobile, covering camera movement, placing buildings, rotating them to fit your layout, and moving structures when redesigning your kingdom.",
+      "why": "Why learn controls?",
+      "whySteps": {
+        "step1Title": "Place Buildings Accurately",
+        "step1Description": "Position structures exactly where you want them in your district layout",
+        "step2Title": "Rotate to Fit",
+        "step2Description": "Turn buildings to align with roads and tight spaces without rebuilding",
+        "step3Title": "Move and Redesign",
+        "step3Description": "Relocate existing buildings as your kingdom and layout evolve over time"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Controls"
     },
     "updates": {
       "title": "Kingdom Architect Updates",
-      "description": "Track the latest Kingdom Architect version changes, new buildings, features, and patch notes.",
-      "metaTitle": "Kingdom Architect Updates - Patch Notes & New Features",
-      "metaDescription": "Stay up to date with Kingdom Architect updates, patch notes, new buildings, feature changes, and fixes for the medieval kingdom tycoon.",
-      "categoryLabel": "UPDATES & NEWS",
+      "description": "Kingdom Architect updates, release date, new buildings, and official community links from Finite Works.",
+      "metaTitle": "Kingdom Architect Updates - Release Date, New Buildings & News",
+      "metaDescription": "Track Kingdom Architect updates, release date, new buildings, and official Finite Works community links including Discord and Reddit for the medieval kingdom tycoon.",
+      "categoryLabel": "UPDATES",
       "whatIs": "What are Updates?",
-      "whatIsDescription": "Records of Kingdom Architect version changes, new structures, feature updates, and fixes. See what each patch added or changed.",
+      "whatIsDescription": "Updates cover version changes, new buildings, features, and fixes released for Kingdom Architect by developer Finite Works. Following updates helps you spot new content and adjust your kingdom strategy.",
       "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Spot New Content",
-        "step1Description": "See new buildings, upgrades, and features as they arrive",
-        "step2Title": "Track Changes",
-        "step2Description": "Understand balance tweaks and mechanic adjustments",
-        "step3Title": "Plan Ahead",
-        "step3Description": "Adjust your strategy based on the latest patch notes"
+        "step1Title": "Catch New Buildings",
+        "step1Description": "See new structures and features as Finite Works adds them to the game",
+        "step2Title": "Track the Release Date",
+        "step2Description": "Stay informed on the BETA development status and full release timeline",
+        "step3Title": "Join the Community",
+        "step3Description": "Connect through official Discord and Reddit channels for announcements and discussion"
       },
       "featured": "Featured & Essential",
-      "all": "All Update Notes"
+      "all": "All Updates"
     }
   }
 }

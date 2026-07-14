@@ -1,1 +1,536 @@
-{}
+{
+  "en": {
+    "buildings": [
+      {
+        "slug": "kingdom-architect-buildings-list",
+        "file": "kingdom-architect-buildings-list"
+      },
+      {
+        "slug": "kingdom-architect-buildings-tier-list",
+        "file": "kingdom-architect-buildings-tier-list"
+      },
+      {
+        "slug": "kingdom-architect-decorations-and-gardens",
+        "file": "kingdom-architect-decorations-and-gardens"
+      },
+      {
+        "slug": "kingdom-architect-houses-and-markets",
+        "file": "kingdom-architect-houses-and-markets"
+      },
+      {
+        "slug": "kingdom-architect-roads-and-paths",
+        "file": "kingdom-architect-roads-and-paths"
+      },
+      {
+        "slug": "kingdom-architect-walls-and-towers",
+        "file": "kingdom-architect-walls-and-towers"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "kingdom-architect-codes",
+        "file": "kingdom-architect-codes"
+      }
+    ],
+    "controls": [
+      {
+        "slug": "kingdom-architect-controls",
+        "file": "kingdom-architect-controls"
+      },
+      {
+        "slug": "kingdom-architect-mobile-controls",
+        "file": "kingdom-architect-mobile-controls"
+      },
+      {
+        "slug": "kingdom-architect-move-buildings",
+        "file": "kingdom-architect-move-buildings"
+      },
+      {
+        "slug": "kingdom-architect-place-buildings",
+        "file": "kingdom-architect-place-buildings"
+      },
+      {
+        "slug": "kingdom-architect-rotate-buildings",
+        "file": "kingdom-architect-rotate-buildings"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "kingdom-architect-beginner-guide",
+        "file": "kingdom-architect-beginner-guide"
+      },
+      {
+        "slug": "kingdom-architect-building-order",
+        "file": "kingdom-architect-building-order"
+      },
+      {
+        "slug": "kingdom-architect-expansion-order",
+        "file": "kingdom-architect-expansion-order"
+      },
+      {
+        "slug": "kingdom-architect-first-village-guide",
+        "file": "kingdom-architect-first-village-guide"
+      },
+      {
+        "slug": "kingdom-architect-late-game-guide",
+        "file": "kingdom-architect-late-game-guide"
+      },
+      {
+        "slug": "kingdom-architect-progression-guide",
+        "file": "kingdom-architect-progression-guide"
+      },
+      {
+        "slug": "kingdom-architect-spending-priority",
+        "file": "kingdom-architect-spending-priority"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "kingdom-architect-best-layout",
+        "file": "kingdom-architect-best-layout"
+      },
+      {
+        "slug": "kingdom-architect-castle-layout",
+        "file": "kingdom-architect-castle-layout"
+      },
+      {
+        "slug": "kingdom-architect-land-expansion",
+        "file": "kingdom-architect-land-expansion"
+      },
+      {
+        "slug": "kingdom-architect-road-layout",
+        "file": "kingdom-architect-road-layout"
+      },
+      {
+        "slug": "kingdom-architect-terrain-and-water",
+        "file": "kingdom-architect-terrain-and-water"
+      },
+      {
+        "slug": "kingdom-architect-village-layout",
+        "file": "kingdom-architect-village-layout"
+      }
+    ],
+    "money": [
+      {
+        "slug": "kingdom-architect-building-costs",
+        "file": "kingdom-architect-building-costs"
+      },
+      {
+        "slug": "kingdom-architect-income-buildings",
+        "file": "kingdom-architect-income-buildings"
+      },
+      {
+        "slug": "kingdom-architect-land-costs",
+        "file": "kingdom-architect-land-costs"
+      },
+      {
+        "slug": "kingdom-architect-money-guide",
+        "file": "kingdom-architect-money-guide"
+      },
+      {
+        "slug": "kingdom-architect-payout-guide",
+        "file": "kingdom-architect-payout-guide"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "kingdom-architect-discord",
+        "file": "kingdom-architect-discord"
+      },
+      {
+        "slug": "kingdom-architect-new-buildings",
+        "file": "kingdom-architect-new-buildings"
+      },
+      {
+        "slug": "kingdom-architect-reddit",
+        "file": "kingdom-architect-reddit"
+      },
+      {
+        "slug": "kingdom-architect-release-date",
+        "file": "kingdom-architect-release-date"
+      },
+      {
+        "slug": "kingdom-architect-updates",
+        "file": "kingdom-architect-updates"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "kingdom-architect-best-upgrades",
+        "file": "kingdom-architect-best-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-building-upgrades",
+        "file": "kingdom-architect-building-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-castle-upgrades",
+        "file": "kingdom-architect-castle-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-progression-unlocks",
+        "file": "kingdom-architect-progression-unlocks"
+      },
+      {
+        "slug": "kingdom-architect-upgrade-costs",
+        "file": "kingdom-architect-upgrade-costs"
+      }
+    ]
+  },
+  "es": {
+    "buildings": [
+      {
+        "slug": "kingdom-architect-buildings-list",
+        "file": "kingdom-architect-buildings-list"
+      },
+      {
+        "slug": "kingdom-architect-buildings-tier-list",
+        "file": "kingdom-architect-buildings-tier-list"
+      },
+      {
+        "slug": "kingdom-architect-decorations-and-gardens",
+        "file": "kingdom-architect-decorations-and-gardens"
+      },
+      {
+        "slug": "kingdom-architect-houses-and-markets",
+        "file": "kingdom-architect-houses-and-markets"
+      },
+      {
+        "slug": "kingdom-architect-roads-and-paths",
+        "file": "kingdom-architect-roads-and-paths"
+      },
+      {
+        "slug": "kingdom-architect-walls-and-towers",
+        "file": "kingdom-architect-walls-and-towers"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "kingdom-architect-codes",
+        "file": "kingdom-architect-codes"
+      }
+    ],
+    "controls": [
+      {
+        "slug": "kingdom-architect-controls",
+        "file": "kingdom-architect-controls"
+      },
+      {
+        "slug": "kingdom-architect-mobile-controls",
+        "file": "kingdom-architect-mobile-controls"
+      },
+      {
+        "slug": "kingdom-architect-move-buildings",
+        "file": "kingdom-architect-move-buildings"
+      },
+      {
+        "slug": "kingdom-architect-place-buildings",
+        "file": "kingdom-architect-place-buildings"
+      },
+      {
+        "slug": "kingdom-architect-rotate-buildings",
+        "file": "kingdom-architect-rotate-buildings"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "kingdom-architect-beginner-guide",
+        "file": "kingdom-architect-beginner-guide"
+      },
+      {
+        "slug": "kingdom-architect-building-order",
+        "file": "kingdom-architect-building-order"
+      },
+      {
+        "slug": "kingdom-architect-expansion-order",
+        "file": "kingdom-architect-expansion-order"
+      },
+      {
+        "slug": "kingdom-architect-first-village-guide",
+        "file": "kingdom-architect-first-village-guide"
+      },
+      {
+        "slug": "kingdom-architect-late-game-guide",
+        "file": "kingdom-architect-late-game-guide"
+      },
+      {
+        "slug": "kingdom-architect-progression-guide",
+        "file": "kingdom-architect-progression-guide"
+      },
+      {
+        "slug": "kingdom-architect-spending-priority",
+        "file": "kingdom-architect-spending-priority"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "kingdom-architect-best-layout",
+        "file": "kingdom-architect-best-layout"
+      },
+      {
+        "slug": "kingdom-architect-castle-layout",
+        "file": "kingdom-architect-castle-layout"
+      },
+      {
+        "slug": "kingdom-architect-land-expansion",
+        "file": "kingdom-architect-land-expansion"
+      },
+      {
+        "slug": "kingdom-architect-road-layout",
+        "file": "kingdom-architect-road-layout"
+      },
+      {
+        "slug": "kingdom-architect-terrain-and-water",
+        "file": "kingdom-architect-terrain-and-water"
+      },
+      {
+        "slug": "kingdom-architect-village-layout",
+        "file": "kingdom-architect-village-layout"
+      }
+    ],
+    "money": [
+      {
+        "slug": "kingdom-architect-building-costs",
+        "file": "kingdom-architect-building-costs"
+      },
+      {
+        "slug": "kingdom-architect-income-buildings",
+        "file": "kingdom-architect-income-buildings"
+      },
+      {
+        "slug": "kingdom-architect-land-costs",
+        "file": "kingdom-architect-land-costs"
+      },
+      {
+        "slug": "kingdom-architect-money-guide",
+        "file": "kingdom-architect-money-guide"
+      },
+      {
+        "slug": "kingdom-architect-payout-guide",
+        "file": "kingdom-architect-payout-guide"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "kingdom-architect-discord",
+        "file": "kingdom-architect-discord"
+      },
+      {
+        "slug": "kingdom-architect-new-buildings",
+        "file": "kingdom-architect-new-buildings"
+      },
+      {
+        "slug": "kingdom-architect-reddit",
+        "file": "kingdom-architect-reddit"
+      },
+      {
+        "slug": "kingdom-architect-release-date",
+        "file": "kingdom-architect-release-date"
+      },
+      {
+        "slug": "kingdom-architect-updates",
+        "file": "kingdom-architect-updates"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "kingdom-architect-best-upgrades",
+        "file": "kingdom-architect-best-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-building-upgrades",
+        "file": "kingdom-architect-building-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-castle-upgrades",
+        "file": "kingdom-architect-castle-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-progression-unlocks",
+        "file": "kingdom-architect-progression-unlocks"
+      },
+      {
+        "slug": "kingdom-architect-upgrade-costs",
+        "file": "kingdom-architect-upgrade-costs"
+      }
+    ]
+  },
+  "pt": {
+    "buildings": [
+      {
+        "slug": "kingdom-architect-buildings-list",
+        "file": "kingdom-architect-buildings-list"
+      },
+      {
+        "slug": "kingdom-architect-buildings-tier-list",
+        "file": "kingdom-architect-buildings-tier-list"
+      },
+      {
+        "slug": "kingdom-architect-decorations-and-gardens",
+        "file": "kingdom-architect-decorations-and-gardens"
+      },
+      {
+        "slug": "kingdom-architect-houses-and-markets",
+        "file": "kingdom-architect-houses-and-markets"
+      },
+      {
+        "slug": "kingdom-architect-roads-and-paths",
+        "file": "kingdom-architect-roads-and-paths"
+      },
+      {
+        "slug": "kingdom-architect-walls-and-towers",
+        "file": "kingdom-architect-walls-and-towers"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "kingdom-architect-codes",
+        "file": "kingdom-architect-codes"
+      }
+    ],
+    "controls": [
+      {
+        "slug": "kingdom-architect-controls",
+        "file": "kingdom-architect-controls"
+      },
+      {
+        "slug": "kingdom-architect-mobile-controls",
+        "file": "kingdom-architect-mobile-controls"
+      },
+      {
+        "slug": "kingdom-architect-move-buildings",
+        "file": "kingdom-architect-move-buildings"
+      },
+      {
+        "slug": "kingdom-architect-place-buildings",
+        "file": "kingdom-architect-place-buildings"
+      },
+      {
+        "slug": "kingdom-architect-rotate-buildings",
+        "file": "kingdom-architect-rotate-buildings"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "kingdom-architect-beginner-guide",
+        "file": "kingdom-architect-beginner-guide"
+      },
+      {
+        "slug": "kingdom-architect-building-order",
+        "file": "kingdom-architect-building-order"
+      },
+      {
+        "slug": "kingdom-architect-expansion-order",
+        "file": "kingdom-architect-expansion-order"
+      },
+      {
+        "slug": "kingdom-architect-first-village-guide",
+        "file": "kingdom-architect-first-village-guide"
+      },
+      {
+        "slug": "kingdom-architect-late-game-guide",
+        "file": "kingdom-architect-late-game-guide"
+      },
+      {
+        "slug": "kingdom-architect-progression-guide",
+        "file": "kingdom-architect-progression-guide"
+      },
+      {
+        "slug": "kingdom-architect-spending-priority",
+        "file": "kingdom-architect-spending-priority"
+      }
+    ],
+    "layout": [
+      {
+        "slug": "kingdom-architect-best-layout",
+        "file": "kingdom-architect-best-layout"
+      },
+      {
+        "slug": "kingdom-architect-castle-layout",
+        "file": "kingdom-architect-castle-layout"
+      },
+      {
+        "slug": "kingdom-architect-land-expansion",
+        "file": "kingdom-architect-land-expansion"
+      },
+      {
+        "slug": "kingdom-architect-road-layout",
+        "file": "kingdom-architect-road-layout"
+      },
+      {
+        "slug": "kingdom-architect-terrain-and-water",
+        "file": "kingdom-architect-terrain-and-water"
+      },
+      {
+        "slug": "kingdom-architect-village-layout",
+        "file": "kingdom-architect-village-layout"
+      }
+    ],
+    "money": [
+      {
+        "slug": "kingdom-architect-building-costs",
+        "file": "kingdom-architect-building-costs"
+      },
+      {
+        "slug": "kingdom-architect-income-buildings",
+        "file": "kingdom-architect-income-buildings"
+      },
+      {
+        "slug": "kingdom-architect-land-costs",
+        "file": "kingdom-architect-land-costs"
+      },
+      {
+        "slug": "kingdom-architect-money-guide",
+        "file": "kingdom-architect-money-guide"
+      },
+      {
+        "slug": "kingdom-architect-payout-guide",
+        "file": "kingdom-architect-payout-guide"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "kingdom-architect-discord",
+        "file": "kingdom-architect-discord"
+      },
+      {
+        "slug": "kingdom-architect-new-buildings",
+        "file": "kingdom-architect-new-buildings"
+      },
+      {
+        "slug": "kingdom-architect-reddit",
+        "file": "kingdom-architect-reddit"
+      },
+      {
+        "slug": "kingdom-architect-release-date",
+        "file": "kingdom-architect-release-date"
+      },
+      {
+        "slug": "kingdom-architect-updates",
+        "file": "kingdom-architect-updates"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "kingdom-architect-best-upgrades",
+        "file": "kingdom-architect-best-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-building-upgrades",
+        "file": "kingdom-architect-building-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-castle-upgrades",
+        "file": "kingdom-architect-castle-upgrades"
+      },
+      {
+        "slug": "kingdom-architect-progression-unlocks",
+        "file": "kingdom-architect-progression-unlocks"
+      },
+      {
+        "slug": "kingdom-architect-upgrade-costs",
+        "file": "kingdom-architect-upgrade-costs"
+      }
+    ]
+  }
+}
